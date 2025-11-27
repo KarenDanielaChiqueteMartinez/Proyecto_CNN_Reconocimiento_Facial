@@ -1,0 +1,67 @@
+{
+  "total_persons": 9,
+  "total_raw_images": 128,
+  "total_processed_images": 125,
+  "total_failed_images": 3,
+  "overall_success_rate": "97.7%",
+  "target_size": [
+    160,
+    160
+  ],
+  "per_person_stats": {
+    "Adam Sandler": {
+      "total_images": 10,
+      "processed": 10,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Ariana Grande": {
+      "total_images": 10,
+      "processed": 10,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Dwayne Johnson": {
+      "total_images": 10,
+      "processed": 10,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Karen": {
+      "total_images": 18,
+      "processed": 16,
+      "failed": 2,
+      "success_rate": "88.9%"
+    },
+    "Kendrick Lamar": {
+      "total_images": 10,
+      "processed": 10,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Kym": {
+      "total_images": 28,
+      "processed": 28,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Salma Hayek": {
+      "total_images": 10,
+      "processed": 10,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Shohei Ohtani": {
+      "total_images": 10,
+      "processed": 10,
+      "failed": 0,
+      "success_rate": "100.0%"
+    },
+    "Tania": {
+      "total_images": 22,
+      "processed": 21,
+      "failed": 1,
+      "success_rate": "95.5%"
+    }
+  }
+}
