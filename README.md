@@ -92,10 +92,6 @@ El objetivo principal es construir un sistema funcional que abarque desde la cap
     <td>MobileNetV2</td>
     <td>Modelo base para transfer learning</td>
   </tr>
-  <tr>
-    <td>NumPy, Matplotlib</td>
-    <td>Analisis y visualizacion de datos</td>
-  </tr>
 </table>
 
 ---
